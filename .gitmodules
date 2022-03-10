@@ -1,0 +1,3 @@
+[submodule "modules/vpc/v0.1.0"]
+	path = modules/vpc/v0.1.0
+	url = git@github.com:kou164nkn/terraform-versioning-test-modules.git
